@@ -1,1 +1,1 @@
-echo "console.log('Bot v1.2 - Fitur sapaan disempurnakan');" > bot.js
+"console.log('Bot v1.2');" 
