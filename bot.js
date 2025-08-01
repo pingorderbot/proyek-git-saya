@@ -1,1 +1,1 @@
-"console.log('Bot v1.2');" 
+echo "require('./utils.js'); sapaDunia();"

@@ -1,0 +1,1 @@
+echo "function sapaDunia() { console.log('Halo Dunia!'); }" 
