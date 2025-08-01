@@ -1,1 +1,1 @@
-"console.log('Bot v1.0');" 
+echo "console.log('Bot v1.2 - Fitur sapaan disempurnakan');" > bot.js
